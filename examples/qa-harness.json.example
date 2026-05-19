@@ -1,0 +1,16 @@
+{
+  "pipecatBaseUrl": "https://pipecat.example.com",
+  "pipecatMeetingId": "3f4ff883-336a-496e-b96e-5904b10bcf96",
+  "backendBaseUrl": "https://api.example.com",
+  "baselinePath": "tests/voice-baseline.json",
+  "maxTurns": 6,
+  "maxSeconds": 600,
+  "connectParams": {
+    "position": "Backend Engineer",
+    "candidate_name": "QA Probe",
+    "interview_type": "Screening",
+    "interview_mode": "candidate",
+    "language_code": "en",
+    "interview_time": 600
+  }
+}
