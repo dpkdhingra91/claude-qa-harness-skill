@@ -110,3 +110,7 @@ The pattern extracted from a production AI-interview voice pipeline that runs th
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+*Extracted from the production voice stack of [AI Interview Agents](https://www.aiinterviewagents.com) — an AI voice interviewer that runs real two-way spoken interviews and screens candidates at scale.*
